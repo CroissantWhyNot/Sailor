@@ -4,7 +4,7 @@ Free open-source Discord bot with AI powered chat moderation using Gemini's API,
 
 Steps to install:
 
-1.) Install the Python libraries Discord, asyncio, and google-generativeai.
+1.) Install the Python libraries Discord, pillow, and google-generativeai.
 
 2.) If you haven't already, create a new Discord app. If this is your first time, follow the tutorial in Discord's documentation. https://discord.com/developers/docs/quick-start/getting-started. You can skip the steps mentioning Ngrok, it is not necessary for bots from my personal experience.
 
